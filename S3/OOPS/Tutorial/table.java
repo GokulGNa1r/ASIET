@@ -1,6 +1,3 @@
-//Program to print multiplication table
-//Ashna Thajudheen
-//Roll No:17
 import java.util.*;
 class table
 {
