@@ -1,6 +1,3 @@
-//Program to find the frequency of numbers in a string
-//Ashna Thajudheen
-//Roll No:17
 import java.util.*;
 class frequency
  {
