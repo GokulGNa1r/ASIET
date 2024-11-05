@@ -1,6 +1,6 @@
 //program to find palinrome 
-//Devika P Sajith
-//Roll no:26
+//GokulGNair
+//Roll no:29
 import java.util.Scanner;
 class palindrome {
     public static void main(String[] args) {
